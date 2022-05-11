@@ -3,6 +3,6 @@
   <head>
   </head>
   <body>
-    <h1>Hello 銀魂</h1>
+    <h1>Hello gintama</h1>
   </body>
 </html>>
